@@ -93,4 +93,5 @@ Docker hw_6
 ```
 
 <br>
+
 ![Alt text](https://github.com/krask1307/iba_hw/blob/master/hw_6/screenshots/hw_6.png)
